@@ -1,0 +1,9 @@
+資料夾名稱：web_test_1215
+index.html
+page.html
+page2.html
+index.css
+各自都有一個div，背景色跟文字色不同
+index有兩個a連結
+page、page2各有一個a連結
+a連結要去底線及hover效果

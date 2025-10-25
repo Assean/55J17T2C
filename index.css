@@ -1,0 +1,42 @@
+.div {
+    /* 寬度 */
+    width: 100px;
+    /* 高度 */
+    height: 100px;
+    /* 使用flex做排版 */
+    display: flex;
+    /* 水平置中 */
+    justify-content: center;
+    /* 垂直置中 */
+    align-items: center;
+}
+
+#page_div {
+    /* 字體顏色 */
+    color: red;
+    /* 背景顏色 */
+    background: blue;
+}
+
+#index_div {
+    color: blue;
+    background: yellow;
+}
+
+#page2_div {
+    color: yellow;
+    background: red;
+}
+
+a {
+    /* 將底線去除 */
+    text-decoration-line: none;
+    color: black;
+}
+
+/* hover代表滑鼠移上去的意思 */
+a:hover {
+    /* 改變滑鼠的樣子 */
+    cursor: pointer;
+    color: red;
+}
